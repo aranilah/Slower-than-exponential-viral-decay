@@ -23,5 +23,5 @@ You will need python packages numpy, matplotlib, scipy, math, pandas,  statsmode
 ### Virus_Host_SteadyState_dynamics.ipynb: 
 #### Implements aggregation into full virus-host model and calculates the steady state dynamics. Produces Figure 5
 
-### decay_datasets.xlsx
+### Decay_datasets.xlsx
 #### Contains the raw viral decay data collected via PlotDigitizer for all 17 datasets
