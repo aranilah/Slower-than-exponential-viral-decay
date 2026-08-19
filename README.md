@@ -20,5 +20,8 @@ You will need python packages numpy, matplotlib, scipy, math, pandas,  statsmode
 ### Aggregation_to_biphasic_mapping.ipynb:
 #### Mapping of biphasic model to aggregation model and compares biphasic vs aggregation across the 6 chosen datasets. Produces Fig 4 and S2
 
-### VIrus_Host_SteadyState_dynamics.ipynb: 
+### Virus_Host_SteadyState_dynamics.ipynb: 
 #### Implements aggregation into full virus-host model and calculates the steady state dynamics. Produces Figure 5
+
+### decay_datasets.xlsx
+#### Contains the raw viral decay data collected via PlotDigitizer for all 17 datasets
