@@ -14,8 +14,11 @@ You will need python packages numpy, matplotlib, scipy, math, pandas,  statsmode
 
 ## File descriptions: 
 
-### Biphasic_vs_exp.ipynb : Biphasic vs exponential analysis for the 17 datasets. Produces Fig 1, 2, and S1
+### Biphasic_vs_exp.ipynb: 
+#### Biphasic vs exponential analysis for the 17 datasets. Produces Fig 1, 2, and S1
 
-### Aggregation_to_biphasic_mapping.ipynb: Mapping of biphasic model to aggregation model and compares biphasic vs aggregation across the 6 chosen datasets. Produces Fig 4 and S2
+### Aggregation_to_biphasic_mapping.ipynb:
+#### Mapping of biphasic model to aggregation model and compares biphasic vs aggregation across the 6 chosen datasets. Produces Fig 4 and S2
 
-### VIrus_Host_SteadyState_dynamics.ipynb: Implements aggregation into full virus-host model and calculates the steady state dynamics. Produces Figure 5
+### VIrus_Host_SteadyState_dynamics.ipynb: 
+#### Implements aggregation into full virus-host model and calculates the steady state dynamics. Produces Figure 5
