@@ -10,7 +10,7 @@ This repository contains all the code need to replicate the figures and analysis
 
 ## Running the code
 
-You will need python packages numpy, matplotlib, scipy, math, pandas,  statsmodels, lmfit, and statistics
+You will need python packages numpy, matplotlib, scipy, math, pandas,  statsmodels, lmfit, and statistics. You will also need an IDE that runs .ipynb files.
 
 ## File descriptions: 
 
